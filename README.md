@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/alwaqfi/Expression-To-SQL/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/alwaqfi/Expression-To-SQL/actions/workflows/codeql-analysis.yml)
+
 ## About
 
 The goal of this library is to convert from .Net to SQL statement that can be executed by the database. The conversion result is useful for libraries requires native SQL statements such as ADO[dot]Net. 
